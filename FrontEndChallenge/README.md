@@ -24,4 +24,4 @@ In the next 25 minutes, your task as the front-end web developer is to implement
 
 You are encouraged to ask any questions you may have that assist you in implementing the design. You can frame these questions as though we the UI/UX designers who sent you these screenshots of the prototype.
 
-You are also strongly encouraged to make changes where you see fit that improve the overall user-experience of the interface. These changes could include making text more readable or improving the quality of form fields to lower the chance of user error. Please be sure to discuss your changes to us as though we were the UI/UX designers who built the prototype.
+You are also strongly encouraged to make changes where you see fit that improve the overall user-experience of the interface. Please be sure to discuss your changes to us as though we were the UI/UX designers who built the prototype.
