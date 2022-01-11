@@ -8,15 +8,17 @@ The basic design without any interactions should match this prototype screenshot
 
 ![Basic Design](ss1.png)
 
-If the phone number field is not blank, and any phone number is entered that does not match the regular expression '^(\+\d{1,2}\s)?\(?\d{3}\)?[\s.-]\d{3}[\s.-]\d{4}$'
+If the phone number field is not blank, and any phone number is entered that does not match the regular expression `^(\+\d{1,2}\s)?\(?\d{3}\)?[\s.-]\d{3}[\s.-]\d{4}$`, the interface should look something like this, without the user needing to click the "Sign In" button.
 
-SCREENSHOT1 - Basic design, no interactions
+![Invalid Password](ss2.png)
 
-SCREENSHOT2 - Invalid phone number
+If the user clicks "Sign In" and either the phone number does not match the regex above, or the password is not `bitcoinMin3r!`, the interface should look similar to this:
 
-SCREENSHOT3 - Incorrect phone number or password
+![Invalid Credentials](ss3.png)
 
-SCREENSHOT4 - Successful login, show result of HTTP request
+Conversely, if the phone number and the password are valid, you should send an HTTP `POST` request with an empty body to `https://martinreamasks.com/api/getDonatedMasks`. The resulting response will contain one key value pair. The interface should proceed to display this message, where XXXXXXXX is replaced with the value provided by the HTTP response:
+
+![Invalid Credentials](ss4.png)
 
 In the next 25 minutes, your task as the front-end web developer is to implement this interface using a basic HTML, CSS, and JavaScript stack. You may also use any other tools, frameworks, or styling libraries you see fit, keeping in mind that the setup time for any of these tools counts towards the time constraint.
 
