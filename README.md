@@ -4,4 +4,4 @@ This repository contains a the challenges used for job interviews for summer stu
 
 These challenges will be distributed to the interviewees. If you are seeing this, you are probably an interviewee!
 
-Submit your final product by sending an email to [joe.furfaro@martinrea.com](mailto:joe.furfaro@martinrea.com).
+Submit your final product via email to [joe.furfaro@martinrea.com](mailto:joe.furfaro@martinrea.com).
