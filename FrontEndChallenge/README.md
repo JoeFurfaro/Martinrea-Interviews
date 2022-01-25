@@ -22,6 +22,6 @@ Conversely, if the phone number and the password are valid, you should send an H
 
 Over the next 30 minutes, your task as the front-end web developer is to implement this interface using a basic HTML, CSS, and JavaScript stack. You may also use any other tools, frameworks, or styling libraries you see fit, keeping in mind that the setup time for any of these tools counts towards the time constraint.
 
-You are encouraged to ask any questions you may have that assist you in implementing the design. You can frame these questions as though we the UI/UX designers who sent you these screenshots of the prototype.
+You are encouraged to ask any questions you may have that assist you in implementing the design. You can frame these questions as if we (the interviewers) are the UI/UX designers who sent you these screenshots of the prototype.
 
 You are also strongly encouraged to make changes where you see fit that improve the overall user-experience of the interface. Please be sure to discuss your changes to us as though we were the UI/UX designers who built the prototype.
