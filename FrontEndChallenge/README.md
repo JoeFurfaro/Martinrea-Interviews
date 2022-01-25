@@ -20,7 +20,7 @@ Conversely, if the phone number and the password are valid, you should send an H
 
 ![Invalid Credentials](ss4.png)
 
-In the next 25 minutes, your task as the front-end web developer is to implement this interface using a basic HTML, CSS, and JavaScript stack. You may also use any other tools, frameworks, or styling libraries you see fit, keeping in mind that the setup time for any of these tools counts towards the time constraint.
+In the next 30 minutes, your task as the front-end web developer is to implement this interface using a basic HTML, CSS, and JavaScript stack. You may also use any other tools, frameworks, or styling libraries you see fit, keeping in mind that the setup time for any of these tools counts towards the time constraint.
 
 You are encouraged to ask any questions you may have that assist you in implementing the design. You can frame these questions as though we the UI/UX designers who sent you these screenshots of the prototype.
 
