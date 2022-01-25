@@ -22,3 +22,5 @@ By the end of your walkthrough, make sure you have completed the following:
 - Design a LoFi or HiFi prototype either on paper or using a protyping tool of your choice (for example, Figma) (you will not be penalized for using paper to sketch your design)
 - Explain how you might test your prototype on the expected user audience
 - List any issues you expect may arise from your design in the future
+
+Final note: We are not looking for a **perfect** design! We are looking to assess your understanding of the design process, and to see how you think, design, and problem solve in an unfamiliar scenario.
