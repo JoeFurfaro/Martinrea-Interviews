@@ -1,6 +1,6 @@
 # 2022-23 Interview Back-End Challenge (Fall)
 
-On the Autonomous Intelligent Vehicle team at Martinrea Alfield, you will be tasked with implementing various web applications that will be used by a diverse cast of stakeholders. One of these applications is the AIV list service. The AIV list service allows AIV front-end app developers to retrieve a list of online AIVs in the factory.
+On the Autonomous Intelligent Vehicle (AIV) team at Martinrea Alfield, you will be tasked with implementing various web applications that will be used by a diverse cast of stakeholders. One of these applications is the AIV list service. The AIV list service allows AIV front-end app developers to retrieve a list of online AIVs in the factory.
 
 You are responsible for implementing the AIV list service in any language or web framework of your choice.
 
