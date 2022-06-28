@@ -12,13 +12,6 @@ Your task as the UI/UX designer is to revamp this tool by coming up with a new d
 6. The graph interface must support showing multiple statistics simultaneously, providing isolated y-axes for each
 7. The user must be able to "group" multiple statistics together onto one parent y-axis (the y-axis of one of the statistics being grouped)
 
-Walk us through what steps you would take to solve this challenge. Feel free to ask us any questions that clarify the requirements or give you more context about the situation as a whole. I repeat, you are STRONGLY ENCOURAGED to ask questions.
-
-By the end of your walkthrough, make sure you have completed the following:
-
-- List stakeholders and justify why each stakeholder is in your list
-- Explain how you might conduct research to better understand your stakeholders the requirements before building a prototype
-- Design a LoFi or HiFi prototype either on paper or using a protyping tool of your choice (for example, Figma) (you will not be penalized for using paper to sketch your design)
-- List any issues you expect may arise from your design in the future
+Please design a LoFi or HiFi prototype of an application that meets the requirements listed above (using a design tool of your choice). Feel free to ask us any questions that clarify the requirements or give you more context about the situation as a whole. I repeat, you are STRONGLY ENCOURAGED to ask questions.
 
 Final note: We are not looking for a **perfect** design! We are looking to assess your understanding of the design process, and to see how you think, design, and problem solve in an unfamiliar scenario.
