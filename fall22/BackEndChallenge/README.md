@@ -18,6 +18,9 @@ The list AIV service should be a `GET` endpoint on the url `/api/AIVList`. It ha
 - If the HTTP header `X-API-KEY` is not set, or is set to anything other than `123secret`, return a response with HTTP status code `403` - forbidden (no response data is necessary)
 - Conversely, if the `X-API-KEY` is correct, return a response with HTTP status code `200` - OK, with the response data being a JSON representation of the AIVs stored in the system
 
-**Note: It is totally fine to hardcode the list of AIVs in the system, but bonus points if you use a database!**
+**Note: It is totally fine to hardcode the list of AIVs in the system (just make up some example AIVs).**
 
+**Another note: Showing your system working would be worth bonus points, but it's fine if you don't write any test cases or run any tests.**
+
+**A FINAL note: Feel free to use any documentation or internet resources that help you.**
 
