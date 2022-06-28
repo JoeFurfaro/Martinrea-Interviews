@@ -8,18 +8,12 @@ The basic design without any interactions should match this prototype screenshot
 
 ![Basic Design](ss1.png)
 
-If the phone number field is not blank, and any phone number is entered that does not match the regular expression `^(\+\d{1,2}\s)?\(?\d{3}\)?[\s.-]\d{3}[\s.-]\d{4}$`, the interface should look something like this, without the user needing to click the "Sign In" button.
-
-![Invalid Password](ss2.png)
-
-If the user clicks "Sign In" and either the phone number does not match the regex above, or the password is not `bitcoinMin3r!`, the interface should look similar to this:
-
-![Invalid Credentials](ss3.png)
-
-If the phone number is `123-456-7891` and the password is `Welcome2022@trim`, you should send an HTTP `POST` request with an empty body to `https://martinreamasks.com/api/getDonatedMasks`. The resulting response will contain one key value pair. The interface should proceed to display this message, where XXXXXXXX is replaced with the value provided by the HTTP response:
+Upon clicking Sign In, if the phone number is `123-456-7891` and the password is `Welcome2022@trim`, you should send an HTTP `POST` request with an empty body to `https://martinreamasks.com/api/getDonatedMasks`. The resulting response will contain one key value pair in the form `{ donatedMasks: X }`. The interface should proceed to display the message shown below, where XXXXXXXX is replaced with the number of donated masks provided by the HTTP response:
 
 ![Invalid Credentials](ss4.png)
 
 Over the next 30 minutes, your task as the front-end web developer is to implement this interface using a basic HTML, CSS, and JavaScript stack. You may also use any other tools, frameworks, or styling libraries you see fit, keeping in mind that the setup time for any of these tools counts towards the time constraint.
 
 You are encouraged to ask any questions you may have that assist you in implementing the design. You can frame these questions as if we (the interviewers) are the UI/UX designers who sent you these screenshots of the prototype.
+
+**Note: We are not too concerned about CSS. Try your best but don't spend too long on styling.**
