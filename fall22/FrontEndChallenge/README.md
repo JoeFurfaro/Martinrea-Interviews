@@ -1,4 +1,4 @@
-# 2022-23 Interview Front-End Challenge
+# 2022-23 Interview Front-End Challenge (Fall)
 
 On the Autonomous Intelligent Vehicle team at Martinrea Alfield, you will be tasked with implementing various web interfaces that will be used by a diverse cast of stakeholders. You will work closely with a UI/UX designer to implement their designs using a front-end web framework of your choice. These designs will vary in complexity and nature.
 
@@ -16,7 +16,7 @@ If the user clicks "Sign In" and either the phone number does not match the rege
 
 ![Invalid Credentials](ss3.png)
 
-Conversely, if the phone number and the password are valid, you should send an HTTP `POST` request with an empty body to `https://martinreamasks.com/api/getDonatedMasks`. The resulting response will contain one key value pair. The interface should proceed to display this message, where XXXXXXXX is replaced with the value provided by the HTTP response:
+If the phone number is `123-456-7891` and the password is `Welcome2022@trim`, you should send an HTTP `POST` request with an empty body to `https://martinreamasks.com/api/getDonatedMasks`. The resulting response will contain one key value pair. The interface should proceed to display this message, where XXXXXXXX is replaced with the value provided by the HTTP response:
 
 ![Invalid Credentials](ss4.png)
 
