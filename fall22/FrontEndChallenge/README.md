@@ -6,11 +6,9 @@ In this fictional scenario, the UI/UX designer has created a VERY basic design f
 
 The basic design without any interactions should match this prototype screenshot:
 
-![Basic Design](ss1.png)
+![Basic Design](pastAttempt.png)
 
-Upon clicking Sign In, if the phone number is `123-456-7891` and the password is `Welcome2022@trim`, you should send an HTTP `POST` request with an empty body to `https://martinreamasks.com/api/getDonatedMasks`. The resulting response will contain one key value pair in the form `{ donatedMasks: X }`. The interface should proceed to display the message shown below, where XXXXXXXX is replaced with the number of donated masks provided by the HTTP response:
-
-![Invalid Credentials](ss4.png)
+Upon clicking Sign In, if the phone number is `123-456-7891` and the password is `Welcome2022@trim`, you should send an HTTP `POST` request with an empty body to `https://martinreamasks.com/api/getDonatedMasks`. The resulting response will contain one key value pair in the form `{ donatedMasks: X }`. The interface should proceed to display the message with the number of donated masks provided by the HTTP response:
 
 Over the next 30 minutes, your task as the front-end web developer is to implement this interface using a basic HTML, CSS, and JavaScript stack. You may also use any other tools, frameworks, or styling libraries you see fit, keeping in mind that the setup time for any of these tools counts towards the time constraint.
 
