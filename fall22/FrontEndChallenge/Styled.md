@@ -3,6 +3,8 @@
 
 The following images contain styled versions of the front end challenge interface. They were designed using Figma!
 
+> [Here is the logo if you like!](logo.png)
+
 #### Default View
 ![Basic Design](ss1.png)
 #### Phone number field is not a valid phone number
