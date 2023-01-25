@@ -17,3 +17,5 @@ You are encouraged to ask any questions, treat us as a UI/UX designer!
 **Note: We are not too concerned about CSS. Try your best but don't spend too long on styling.**
 
 **If you finish the implementation early you can take a look at styling your login page** [See this](Styled.md)
+
+**You may use the internet and other online resources and documentation to complete the task**
