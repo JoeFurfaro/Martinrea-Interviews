@@ -1,6 +1,6 @@
 # 2022-23 Interview Front-End Challenge (Fall)
 
-On the Autonomous Intelligent Vehicle team at Martinrea Alfield, you will be tasked with implementing various web interfaces that will be used by a diverse cast of stakeholders. You will work closely with a UI/UX designer to implement their designs using a front-end web framework of your choice. These designs will vary in complexity and nature.
+On the Autonomous Intelligent Vehicle team at Martinrea Alfield, you will be tasked with implementing various web interfaces that will be used by a diverse cast of stakeholders. You will work closely with a UI/UX designer to implement their designs using `react`. These designs will vary in complexity and nature.
 
 In this fictional scenario, the UI/UX designer has created a VERY basic design for a login screen for one of our administrative applications. On this login screen, the user is prompted to enter their phone number and password. The designer has supplied you with the following instructions:
 
