@@ -3,7 +3,7 @@ On the Process Innovation team at Martinrea Alfield, you will be tasked with des
 
 Currrently this team is discovering problems with bins being delivered to the wrong places by the forklift drivers. 
 Below is an image of one of the forklifts used in our factory, and an image of one aisle in our "supermarket" where bins of parts are stored. 
-<img src="https://user-images.githubusercontent.com/44929206/221626394-c4e5b498-5098-4644-86f7-11e40021c68c.jpg" width="300">   <img src="https://user-images.githubusercontent.com/44929206/221626410-51e79413-0a86-4384-81ca-508abe4be22a.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/44929206/221626410-51e79413-0a86-4384-81ca-508abe4be22a.jpg" width="300">   <img src="https://user-images.githubusercontent.com/44929206/221626394-c4e5b498-5098-4644-86f7-11e40021c68c.jpg" width="300">
 
 Below is a screenshot of the excel file the HFDS team uses to store the location of all of the bins in the factory. Currently, this chart is printed out and given to forklift drivers at the beginning of each of their shifts.
 <img src="https://user-images.githubusercontent.com/44929206/221627061-d2c6e5bb-b119-4cab-8202-caf2d3daed60.png" width="1000">
