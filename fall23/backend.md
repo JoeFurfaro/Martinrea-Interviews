@@ -15,7 +15,7 @@ Given a set of program nodes that depend on each other, write a Python3 method `
 nodes = {'a','b','c','d'} 
 dependencies = {'a->b','a->d','b->c','d->c'}
 ```
-**Explanation:** There are 4 programs labelled `a` through `d`. The notation `a->b` means that the program `a` is dependent on the program `b`. You can assume every program's name consists of lower-case `a-z` and has a length of at least 1 (i.e it matches the regular expression `[a-z]+`).
+**Explanation:** In this example, there are 4 programs labelled `a` through `d`. The notation `a->b` means that the program `a` is dependent on the program `b`. You can assume every program's name consists of lower-case `a-z` and has a length of at least 1 (i.e it matches the regular expression `[a-z]+`).
 
 **Valid output:** Valid safe run orders for this input include:
 - [`c`, `b`, `d`, `a`]
