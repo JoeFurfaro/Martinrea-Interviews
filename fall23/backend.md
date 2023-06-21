@@ -21,7 +21,7 @@ dependencies = {'a->b','a->d','b->c','d->c'}
 - [`c`, `b`, `d`, `a`]
 - [`c`, `d`, `b`, `a`]
 
-Your function can return any of them.
+Your function only needs to return one of them.
 
 ### Starter Code
 ```py
